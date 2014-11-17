@@ -1,22 +1,19 @@
-MAPAS EM QVD
+QVD Maps Library
 
-Uma Biblioteca de mapas em formato QVD para o Qlikview
-
-MOTIVAÇÃO
-
-Democratizar o uso dos mapas nas aplicações Qlikview. 
-Agora você não ficará mais restrito a somente criar mapas com o objeto de gráfico de dispersão com bolinhas.
-
-OBJETIVO 
-
-Este projeto visa criar um respositório de mapas em formato QVD que possam ser utilizados pela extensão de mapas QuickMap do Qlikview 11.
-A extensão possibilita a utilização de dados de poligonos e pontos carregados a partir de tabelas de dados, e não somente de arquivos kml.
+A library of maps stored as QVD files for use with QuickMap Qlikview Extension.
+https://github.com/brianwmunz/QuickMap-QV11
 
 
-UTILIZANDO OS MAPAS
+MOTIVATION
 
-Pasta Brasil : Contem mapas dos Brasil por Estados e mapas estaduais por municipio. A pasta QVD-Maps contem os mapas.
+Offer to everyone maps data to use on every Qlikview Application.
+No more scatter charts using Google static API.
 
-SUPORTE
+USING THE QVDs
 
-Os mapas são fornecidos assim como estão. 
+ MapViz.qvw contains a sample app demonstrating how to load the qvds and how to setup the extension for poligons or points.
+
+SUPPORT
+
+The QVD Maps are offered as is. Use it for your own.
+
