@@ -1,19 +1,16 @@
-QVD Maps Library
+QVD Map Library 
 
-A library of maps stored as QVD files for use with QuickMap Qlikview Extension.
-https://github.com/brianwmunz/QuickMap-QV11
-
+A library containing map data from Brazilian States and Countys stored as QVD files for use with QuickMap Qlikview Extension.https://github.com/brianwmunz/QuickMap-QV11
 
 MOTIVATION
 
-Offer to everyone maps data to use on every Qlikview Application.
+Offer to everyone the opportunity to easily create geo analysis in your Qlikview applications with a map extension.
 No more scatter charts using Google static API.
 
-USING THE QVDs
+USING THE QVDs.
 
- MapViz.qvw contains a sample app demonstrating how to load the qvds and how to setup the extension for poligons or points.
+MapViz.qvw contains a sample app demonstrating how to load the qvds and how to setup the extension for poligons or points.
 
-SUPPORT
+SUPPORT & FEEDBACK
 
-The QVD Maps are offered as is. Use it for your own.
-
+The QVDs are offered as is. Feedbacks are welcome.
