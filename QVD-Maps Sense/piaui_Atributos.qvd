@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <QvdTableHeader>
+   <QvBuildNo>12354</QvBuildNo>
+   <CreatorDoc>D:\qlikview\Mapas\GeoJson\Visualiza√ß√£o.qvw</CreatorDoc>
+   <CreateUtcTime>2014-10-30 17:29:37</CreateUtcTime>
+   <SourceCreateUtcTime></SourceCreateUtcTime>
+   <SourceFileUtcTime></SourceFileUtcTime>
+   <SourceFileSize>-1</SourceFileSize>
+   <StaleUtcTime></StaleUtcTime>
+   <TableName>Mapa_Atributos</TableName>
+   <Fields>
+     <QvdFieldHeader>
+       <FieldName>ID</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>224</NoOfSymbols>
+       <Offset>0</Offset>
+       <Length>2912</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$key</String>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>UF</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>2912</Offset>
+       <Length>4</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>NomeMunicipio</FieldName>
+       <BitOffset>8</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>224</NoOfSymbols>
+       <Offset>2916</Offset>
+       <Length>3687</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+   </Fields>
+   <Compression></Compression>
+   <RecordByteSize>2</RecordByteSize>
+   <NoOfRecords>224</NoOfRecords>
+   <Offset>6603</Offset>
+   <Length>448</Length>
+   <Lineage>
+     <LineageInfo>
+       <Discriminator>INLINE</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\acre.json_Atributos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\acre.json_Poligonos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\amapa.json_Atributos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\amapa.json_Poligonos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\amazonas.json_Atributos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\amazonas.json_Poligonos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\maranhao.json_Atributos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\maranhao.json_Poligonos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\para.json_Atributos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\para.json_Poligonos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\piaui.json_Atributos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\rio-grande-do-norte.json_Atributos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\rio-grande-do-norte.json_Poligonos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\roraima.json_Atributos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\roraima.json_Poligonos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>d:\qlikview\mapas\geojson\acre.json</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>d:\qlikview\mapas\geojson\amapa.json</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>d:\qlikview\mapas\geojson\amazonas.json</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>d:\qlikview\mapas\geojson\maranhao.json</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>d:\qlikview\mapas\geojson\para.json</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>d:\qlikview\mapas\geojson\rio-grande-do-norte.json</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>d:\qlikview\mapas\geojson\roraima.json</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>http://localhost:5555/qvsource/webconnectorv2/?table=jsontotable&amp;appid=&amp;verb=file&amp;url=d%3a%5cqlikview%5cmapas%5cgeojson%5cacre.json&amp;
+	cachetimeinhours=0&amp;xpath=data%2ffeatures%2fproperties</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>http://localhost:5555/qvsource/webconnectorv2/?table=jsontotable&amp;appid=&amp;verb=file&amp;url=d%3a%5cqlikview%5cmapas%5cgeojson%5camapa.json&amp;
+	cachetimeinhours=0&amp;xpath=data%2ffeatures%2fproperties</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>http://localhost:5555/qvsource/webconnectorv2/?table=jsontotable&amp;appid=&amp;verb=file&amp;url=d%3a%5cqlikview%5cmapas%5cgeojson%5camazonas.json&amp;
+	cachetimeinhours=0&amp;xpath=data%2ffeatures%2fproperties</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>http://localhost:5555/qvsource/webconnectorv2/?table=jsontotable&amp;appid=&amp;verb=file&amp;url=d%3a%5cqlikview%5cmapas%5cgeojson%5cmaranhao.json&amp;
+	cachetimeinhours=0&amp;xpath=data%2ffeatures%2fproperties</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>http://localhost:5555/qvsource/webconnectorv2/?table=jsontotable&amp;appid=&amp;verb=file&amp;url=d%3a%5cqlikview%5cmapas%5cgeojson%5cpara.json&amp;
+	cachetimeinhours=0&amp;xpath=data%2ffeatures%2fproperties</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>http://localhost:5555/qvsource/webconnectorv2/?table=jsontotable&amp;appid=&amp;verb=file&amp;url=d%3a%5cqlikview%5cmapas%5cgeojson%5cpiaui.json&amp;
+	cachetimeinhours=0&amp;xpath=data%2ffeatures%2fproperties</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>http://localhost:5555/qvsource/webconnectorv2/?table=jsontotable&amp;appid=&amp;verb=file&amp;url=d%3a%5cqlikview%5cmapas%5cgeojson%5crio-grande-do-norte.json&amp;
+	cachetimeinhours=0&amp;xpath=data%2ffeatures%2fproperties</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>http://localhost:5555/qvsource/webconnectorv2/?table=jsontotable&amp;appid=&amp;verb=file&amp;url=d%3a%5cqlikview%5cmapas%5cgeojson%5croraima.json&amp;
+	cachetimeinhours=0&amp;xpath=data%2ffeatures%2fproperties</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+   </Lineage>
+   <Comment></Comment>
+ </QvdTableHeader>
+ Y≥! 2208601 ?ª! 2210623 U£! 2204501 Pì! 2200400 “ü! 2203602 Îô! 2202091 ⁄û! 2203354 Ω! 2211100 ·¶! 2205409 ãö! 2202251 ªí! 2200251 >ö! 2202174 ”∏! 2210003 Êî! 2200806 Z¥! 2208858 Iï! 2200905 zï! 2200954 ›∑! 2209757 ¶! 2205201 ß! 2205458 z∑! 2209658 f†! 2203750 ø! 2211605 „ô! 2202083 qú! 2202737 €ô! 2202075 Ãò! 2201804 Wõ! 2202455 âΩ! 2211209 0≤! 2208304 ôπ! 2210201 çß! 2205581 )¥! 2208809 ◊∞! 2207959 æ∞! 2207934 ò†! 2203800 ∫õ! 2202554 i∫! 2210409 t¶! 2205300 Lß! 2205516 Åµ! 2209153 f°! 2204006 ú! 2202653 zº! 2210938 Ωì! 2200509 \¶! 2205276 5†! 2203701 7∫! 2210359 Wú! 2202711 %§! 2204709 ú∞! 2207900 Ø! 2207504 JÆ! 2207306 Äù! 2203008 uß! 2205557 âõ! 2202505 Á≠! 2207207 W∫! 2210391 û®! 2205854 º≥! 2208700 Dß! 2205508 ∏£! 2204600 πº! 2211001 sØ! 2207603 1©! 2206001 «™! 2206407 ≠Æ! 2207405 öú! 2202778 Oæ! 2211407 £∏! 2209955 à§! 2204808 ™∂! 2209450 ≥∏! 2209971 Gª! 2210631 1∞! 2207793 ´! 2206704 Ñ≠! 2207108 ö! 2202117 r∏! 2209906 ™ï! 2201002 Ñô! 2201988 S¨! 2206803 ö! 2202133 wû! 2203255 9∞! 2207801 êô! 2202000 K•! 2205003 √ö! 2202307 ¿¢! 2204352 y∂! 2209401 ¸π! 2210300 Éî! 2200707 ãì! 2200459 O∫! 2210383 ‹∂! 2209500 °! 2203909 ç´! 2206605 ∂¨! 2206902 ,¢! 2204204 üß! 2205599 Fû! 2203206 Ø¶! 2205359 ì≤! 2208403 £º! 2210979 ›ñ! 2201309 >ñ! 2201150 @∏! 2209856 a∂! 2209377 6π! 2210102 ü! 2203420 ∑! 2209559 `ª! 2210656 G∂! 2209351 *´! 2206506 ‘ó! 2201556 G∫! 2210375 è¢! 2204303 ü! 2203404 æ´! 2206654 Î§! 2204907 !¨! 2206753 ©! 2205953 AØ! 2207553 €ï! 2201051 &õ! 2202406 I∑! 2209609 \ß! 2205532 Œ´! 2206670 {Æ! 2207355 Ã∫! 2210508 Äú! 2202752 hô! 2201960 ˝ô! 2202109 xø! 2211704 /ª! 2210607 Yô! 2201945 ™! 2206209 Û£! 2204659 m®! 2205805 Pµ! 2209104 
+®! 2205706 ¨∑! 2209708 ”†! 2203859 Ïõ! 2202604 Á¨! 2206951 å¥! 2208908 ™ò! 2201770 Ü£! 2204550 '≥! 2208551 Xñ! 2201176 !≠! 2207009 ´õ! 2202539 áû! 2203271 j∞! 2207850 î©! 2206100 ˆ≤! 2208502 …°! 2204105 Oú! 2202703 j±! 2208106 B¶! 2205250 Ìí! 2200301 pñ! 2201200 ÷Ø! 2207702 }ß! 2205565 ıª! 2210805 £ó! 2201507 Ú¢! 2204402 ∂! 2209302 ©û! 2203305 ?ô! 2201919  î! 2200608 –®! 2205904 ßß! 2205607 ıë! 2200053 j¥! 2208874 ‰ó! 2201572 oü! 2203503 „ú! 2202851 ’í! 2200277 ∏! 2209807 b©! 2206050 /ô! 2201903 iú! 2202729 ÏΩ! 2211308 `ö! 2202208 ^û! 2203230 ï™! 2206357 @ó! 2201408 P∏! 2209872 âº! 2210953 „ù! 2203107 ≤ú! 2202802 æ! 2211357 ò! 2201606 ±! 2208007 !∞! 2207777 ù! 2202901 äí! 2200202 ñ! 2201101 dß! 2205540 ﬂ•! 2205151  ¨! 2206720 Xº! 2210904 Öß! 2205573 =ü! 2203453 íª! 2210706 ˙°! 2204154 ≤æ! 2211506 Àô! 2202059 ä≥! 2208650 d™! 2206308 Ë´! 2206696 Æ•! 2205102 ∞! 2207751 ™ô! 2202026 Iô! 2201929 Õ±! 2208205 π! 2210052 'í! 2200103 ≥µ! 2209203 Ì¥! 2209005 iò! 2201705 Tß! 2205524 ãò! 2201739 PI PRATA DO PIAUI SEBASTIAO BARROS GUADALUPE ALTOS ELISEU MARTINS CALDEIRAO GRANDE DO PIAUI DIRCEU ARCOVERDE UNIAO JOAQUIM PIRES CANAVIEIRA ALAGOINHA DO PIAUI CAMPO LARGO DO PIAUI SAO JOAO DO PIAUI ANTONIO ALMEIDA RIACHO FRIO AROAZES AROEIRAS DO ITAIM SAO GONCALO DO GURGUEIA JAICOS JOCA MARQUES SAO FRANCISCO DE ASSIS DO PIAUI FARTURA DO PIAUI VILA NOVA DO PIAUI CAJUEIRO DA PRAIA COIVARAS CAJAZEIRAS DO PIAUI BOCAINA CAPITAO GERVASIO OLIVEIRA URUCUI PIRACURUCA SAO JOSE DO PIAUI LAGOA DO PIAUI REGENERACAO NOVA SANTA RITA PEDRO LAURENTINO FLORES DO PIAUI CARIDADE DO PIAUI SAO MIGUEL DO TAPUIO JERUMENHA JUAZEIRO DO PIAUI SANTA CRUZ DOS MILAGRES FRANCINOPOLIS CAXINGO SUSSUAPARA AMARANTE JATOBA DO PIAUI ESPERANTINA SAO LOURENCO DO PIAUI COCAL DE TELHA INHUMA PEDRO II PALMEIRAIS PAES LANDIM CRISTALANDIA DO PIAUI LAGOA ALEGRE CARACOL PADRE MARCOS SAO MIGUEL DO FIDALGO MADEIRO REDENCAO DO GURGUEIA JOSE DE FREITAS HUGO NAPOLEAO TERESINA PARNAGUA MARCOS PARENTE MONSENHOR GIL PALMEIRA DO PIAUI COLONIA DO PIAUI VARZEA GRANDE SAO JOAO DA VARJOTA IPIRANGA DO PIAUI SANTO ANTONIO DOS MILAGRES SAO JOAO DO ARRAIAL SEBASTIAO LEAL PAU DARCO DO PIAUI NAZARE DO PIAUI OLHO DAGUA DO PIAUI CAMPO ALEGRE DO FIDALGO SAO JOAO DA SERRA ARRAIAL BREJO DO PIAUI NOSSA SENHORA DOS REMEDIOS CAMPO GRANDE DO PIAUI CURRALINHOS PAULISTANA BURITI DOS LOPES ITAINOPOLIS CANTO DO BURITI GEMINIANO SANTO ANTONIO DE LISBOA SAO JULIAO ANISIO DE ABREU ALVORADA DO GURGUEIA SAO MIGUEL DA BAIXA GRANDE SANTO INACIO DO PIAUI FLORIANO MONTE ALEGRE DO PIAUI NOVO ORIENTE DO PIAUI FRANCISCO SANTOS LAGOA DO SITIO CURIMATA JOAO COSTA PIRIPIRI TANQUE DO PIAUI BARREIRAS DO PIAUI BAIXA GRANDE DO RIBEIRO SAO JOAO DA CANABRAVA SANTA ROSA DO PIAUI SAO JOSE DO PEIXE DOMINGOS MOURAO SAO BRAZ DO PIAUI SIGEFREDO PACHECO SANTANA DO PIAUI MONSENHOR HIPOLITO BELA VISTA DO PIAUI SAO LUIS DO PIAUI FRONTEIRAS DOM EXPEDITO LOPES MORRO CABECA NO TEMPO ISAIAS COELHO NOSSA SENHORA DE NAZARE MARCOLANDIA PAQUETA ASSUNCAO DO PIAUI CAPITAO DE CAMPOS SAO FELIX DO PIAUI JUREMA MORRO DO CHAPEU DO PIAUI PAJEU DO PIAUI SAO PEDRO DO PIAUI COLONIA DO GURGUEIA BRASILEIRA CAMPINAS DO PIAUI WALL FERRAZ SAO RAIMUNDO NONATO BOQUEIRAO DO PIAUI MIGUEL ALVES ILHA GRANDE LUZILANDIA SANTA CRUZ DO PIAUI LUIS CORREIA SAO FRANCISCO DO PIAUI FLORESTA DO PIAUI CASTELO DO PIAUI NOVO SANTO ANTONIO RIBEIRO GONCALVES BOA HORA GUARIBAS PORTO ALEGRE DO PIAUI BARRA DALCANTARA OEIRAS CARAUBAS DO PIAUI CURRAL NOVO DO PIAUI PAVUSSU MATIAS OLIMPIO PORTO FRANCISCO AYRES COCAL PIMENTEIRAS JARDIM DO MULATO ALTO LONGA BARRAS PARNAIBA LAGOA DO BARRO DO PIAUI SIMPLICIO MENDES BATALHA GILBUES SANTA LUZ DEMERVAL LOBAO BOM PRINCIPIO DO PIAUI ANGICAL DO PIAUI MANOEL EMIDIO LANDRI SALES ACAUA RIBEIRA DO PIAUI BELEM DO PIAUI ELESBAO VELOSO CORONEL JOSE DIAS ALEGRETE DO PIAUI SAO GONCALO DO PIAUI MASSAPE DO PIAUI BOM JESUS COCAL DOS ALVES VALENCA DO PIAUI CAMPO MAIOR CURRAIS MILTON BRANDAO BARRO DURO SAO JOAO DA FRONTEIRA TAMBORIL DO PIAUI CRISTINO CASTRO CONCEICAO DO CANINDE VARZEA BRANCA BENEDITINOS PICOS PATOS DO PIAUI CORRENTE AGUA BRANCA AVELINO LOPES LAGOINHA DO PIAUI JACOBINA DO PIAUI NAZARIA SOCORRO DO PIAUI LAGOA DE SAO FRANCISCO DOM INOCENCIO SIMOES FRANCISCO MACEDO VERA MENDES CABECEIRAS DO PIAUI QUEIMADA NOVA MIGUEL LEAO MURICI DOS PORTELAS ITAUEIRA PASSAGEM FRANCA DO PIAUI BURITI DOS MONTES BONFIM DO PIAUI PIO IX SAO JOSE DO DIVINO AGRICOLANDIA SANTA FILOMENA RIO GRANDE DO PIAUI BERTOLINIA JULIO BORGES BETANIA DO PIAUI   		
+
+  !!""##$$%%&&''(())**++,,--..//00112233445566778899::;;<<==>>??@@AABBCCDDEEFFGGHHIIJJKKLLMMNNOOPPQQRRSSTTUUVVWWXXYYZZ[[\\]]^^__``aabbccddeeffgghhiijjkkllmmnnooppqqrrssttuuvvwwxxyyzz{{||}}~~ÄÄÅÅÇÇÉÉÑÑÖÖÜÜááààââääããååççééèèêêëëííììîîïïññóóòòôôööõõúúùùûûüü††°°¢¢££§§••¶¶ßß®®©©™™´´¨¨≠≠ÆÆØØ∞∞±±≤≤≥≥¥¥µµ∂∂∑∑∏∏ππ∫∫ªªººΩΩææøø¿¿¡¡¬¬√√ƒƒ≈≈∆∆««»»……  ÀÀÃÃÕÕŒŒœœ––——““””‘‘’’÷÷◊◊ÿÿŸŸ⁄⁄€€‹‹››ﬁﬁﬂﬂ

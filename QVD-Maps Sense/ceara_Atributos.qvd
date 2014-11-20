@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <QvdTableHeader>
+   <QvBuildNo>12354</QvBuildNo>
+   <CreatorDoc>D:\qlikview\Mapas\GeoJson\Visualiza√ß√£o.qvw</CreatorDoc>
+   <CreateUtcTime>2014-10-30 17:29:37</CreateUtcTime>
+   <SourceCreateUtcTime></SourceCreateUtcTime>
+   <SourceFileUtcTime></SourceFileUtcTime>
+   <SourceFileSize>-1</SourceFileSize>
+   <StaleUtcTime></StaleUtcTime>
+   <TableName>Mapa_Atributos</TableName>
+   <Fields>
+     <QvdFieldHeader>
+       <FieldName>ID</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>184</NoOfSymbols>
+       <Offset>0</Offset>
+       <Length>2392</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$key</String>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>UF</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>2392</Offset>
+       <Length>4</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>NomeMunicipio</FieldName>
+       <BitOffset>8</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>184</NoOfSymbols>
+       <Offset>2396</Offset>
+       <Length>2023</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+   </Fields>
+   <Compression></Compression>
+   <RecordByteSize>2</RecordByteSize>
+   <NoOfRecords>184</NoOfRecords>
+   <Offset>4419</Offset>
+   <Length>368</Length>
+   <Lineage>
+     <LineageInfo>
+       <Discriminator>INLINE</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\acre.json_Atributos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\acre.json_Poligonos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\amapa.json_Atributos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\amapa.json_Poligonos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\amazonas.json_Atributos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\amazonas.json_Poligonos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\ceara.json_Atributos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\maranhao.json_Atributos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\maranhao.json_Poligonos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\para.json_Atributos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\para.json_Poligonos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\piaui.json_Atributos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\piaui.json_Poligonos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\rio-grande-do-norte.json_Atributos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\rio-grande-do-norte.json_Poligonos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\roraima.json_Atributos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - qvd\roraima.json_Poligonos.qvd</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>d:\qlikview\mapas\geojson\acre.json</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>d:\qlikview\mapas\geojson\amapa.json</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>d:\qlikview\mapas\geojson\amazonas.json</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>d:\qlikview\mapas\geojson\maranhao.json</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>d:\qlikview\mapas\geojson\para.json</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>d:\qlikview\mapas\geojson\piaui.json</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>d:\qlikview\mapas\geojson\rio-grande-do-norte.json</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>d:\qlikview\mapas\geojson\roraima.json</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>http://localhost:5555/qvsource/webconnectorv2/?table=jsontotable&amp;appid=&amp;verb=file&amp;url=d%3a%5cqlikview%5cmapas%5cgeojson%5cacre.json&amp;
+	cachetimeinhours=0&amp;xpath=data%2ffeatures%2fproperties</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>http://localhost:5555/qvsource/webconnectorv2/?table=jsontotable&amp;appid=&amp;verb=file&amp;url=d%3a%5cqlikview%5cmapas%5cgeojson%5camapa.json&amp;
+	cachetimeinhours=0&amp;xpath=data%2ffeatures%2fproperties</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>http://localhost:5555/qvsource/webconnectorv2/?table=jsontotable&amp;appid=&amp;verb=file&amp;url=d%3a%5cqlikview%5cmapas%5cgeojson%5camazonas.json&amp;
+	cachetimeinhours=0&amp;xpath=data%2ffeatures%2fproperties</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>http://localhost:5555/qvsource/webconnectorv2/?table=jsontotable&amp;appid=&amp;verb=file&amp;url=d%3a%5cqlikview%5cmapas%5cgeojson%5cceara.json&amp;
+	cachetimeinhours=0&amp;xpath=data%2ffeatures%2fproperties</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>http://localhost:5555/qvsource/webconnectorv2/?table=jsontotable&amp;appid=&amp;verb=file&amp;url=d%3a%5cqlikview%5cmapas%5cgeojson%5cmaranhao.json&amp;
+	cachetimeinhours=0&amp;xpath=data%2ffeatures%2fproperties</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>http://localhost:5555/qvsource/webconnectorv2/?table=jsontotable&amp;appid=&amp;verb=file&amp;url=d%3a%5cqlikview%5cmapas%5cgeojson%5cpara.json&amp;
+	cachetimeinhours=0&amp;xpath=data%2ffeatures%2fproperties</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>http://localhost:5555/qvsource/webconnectorv2/?table=jsontotable&amp;appid=&amp;verb=file&amp;url=d%3a%5cqlikview%5cmapas%5cgeojson%5cpiaui.json&amp;
+	cachetimeinhours=0&amp;xpath=data%2ffeatures%2fproperties</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>http://localhost:5555/qvsource/webconnectorv2/?table=jsontotable&amp;appid=&amp;verb=file&amp;url=d%3a%5cqlikview%5cmapas%5cgeojson%5crio-grande-do-norte.json&amp;
+	cachetimeinhours=0&amp;xpath=data%2ffeatures%2fproperties</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>http://localhost:5555/qvsource/webconnectorv2/?table=jsontotable&amp;appid=&amp;verb=file&amp;url=d%3a%5cqlikview%5cmapas%5cgeojson%5croraima.json&amp;
+	cachetimeinhours=0&amp;xpath=data%2ffeatures%2fproperties</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+   </Lineage>
+   <Comment></Comment>
+ </QvdTableHeader>
+  (# 2304202 Ì"# 2302701 'D# 2311207 ÏM# 2313708 õ# 2301851 T3# 2306900 ”H# 2312403 æ# 2300606 iJ# 2312809 ø3# 2307007 ÃJ# 2312908 J># 2309706 B6# 2307650 ˛ # 2302206 Æ5# 2307502 ≤N# 2313906 Á# 2300903 'C# 2310951 E.# 2305605 ≈# 2300101 ôI# 2312601 ˚(# 2304251 G# 2311959 *;# 2308906 ˛# 2301950 6I# 2312502 ƒ!# 2302404 –0# 2306256 ∂4# 2307254 Á=# 2309607 µ# 2301109 ∫+# 2304954 )# 2304285 ä"# 2302602 «:# 2308807 @'# 2303808 Ó;# 2309102 `*# 2304608 D7# 2307908 8 # 2302008 (# 2300200 È+# 2305001 ƒB# 2310852 ≥E# 2311603 M# 2313500 ˘1# 2306553 0B# 2310704 1# 2306306 ˆ# 2300150 L,# 2305100 π,# 2305209 [# 2300507 ˝)# 2304509 H# 2312205 ê)# 2304400 ü0# 2306207 g(# 2304103 A# 2310407 Ω## 2302909 ª'# 2303931 P## 2302800 ™G# 2312106 Ö4# 2307205 e1# 2306405 Ú,# 2305266 £'# 2303907 ¥<# 2309300 j# 2301802 •7# 2308005 +2# 2306603 Ÿ/# 2306009 ‚-# 2305506 PE# 2311504 $L# 2313252 -)# 2304301 $# 2303006 „N# 2313955 √*# 2304707 ?D# 2311231 `D# 2311264 A@# 2310209 d:# 2308708 v.# 2305654 ÌD# 2311405 ‰$# 2303204 t6# 2307700 ·6# 2307809 ‹F# 2311900 ^)# 2304350 q?# 2310001 <0# 2306108 pH# 2312304 ìB# 2310803 ‘'# 2303956 4-# 2305332 jA# 2310506 -# 2305407 Ñ# 2300804 8# 2308104 A# 2301505 WM# 2313559 !=# 2309409 vO# 2314102 VL# 2313302 ´&# 2303659 R=# 2309458 ON# 2313807 !# 2300705 ƒC# 2311108 R# 2300754 :# 2308609 36# 2307635 -# 2305308 áL# 2313351 ®.# 2305704 ≠># 2309805 äD# 2311306 ¸I# 2312700 Å$# 2303105 ‘?# 2310100 H# 2301000 ÛK# 2313203 M-# 2305357 é2# 2306702 9# 2308377 aC# 2311009 â+# 2304905 GG# 2312007 O# 2314003 Ò2# 2306801 (# 2304004 ªD# 2311355 r@# 2310258 ™%# 2303402 Ë4# 2307304 G%# 2303303 -K# 2313005 ?# 2309904 ›&# 2303709 Ñ=# 2309508 K5# 2307403 ¯# 2300408 Õ# 2301901 õ # 2302107 # 2301208 »1# 2306504 ˆB# 2310902 âM# 2313609 §@# 2310308 yF# 2311801 /# 2305803 N# 2313757 )# 2304277 ã;# 2309003 À)# 2304459 {# 2301307 ﬁ# 2301406 a!# 2302305 p&# 2303600 î9# 2308500 # 2301703 )# 2304269 6# 2307601 ï# 2300309 Œ8# 2308302 "4# 2307106 19# 2308401 êK# 2313104 &+# 2304806 i # 2302057 &# 2303501 '"# 2302503 k8# 2308203 §# 2301604 πL# 2313401 F# 2311702 ÕA# 2310605 —,# 2305233 ë*# 2304657 Q<# 2309201 I# 2301257 Ï(# 2304236 ˇ8# 2308351 n/# 2305902 CE CRATO CAMPOS SALES POTENGI UMARI BANABUIU JAGUARIBE SAO GONCALO DO AMARANTE ALTANEIRA SENADOR SA JAGUARUANA SOBRAL PACATUBA MARACANAU BEBERIBE LAVRAS DA MANGABEIRA URUOCA APUIARES PIRES FERREIRA INDEPENDENCIA ABAIARA SAO LUIS DO CURU CRUZ SALITRE MORRINHOS BARREIRA SAO JOAO DO JAGUARIBE BOA VIAGEM ITAITINGA JIJOCA DE JERICOACOARA PACAJUS ARACATI GUAIUBA EUSEBIO CAMOCIM MORAUJO CEDRO MULUNGU GENERAL SAMPAIO MARTINOPOLE BARRO ACARAU GUARACIABA DO NORTE PINDORETAMA REDENCAO TRAIRI ITAREMA PENTECOSTE ITAPAGE ACARAPE GUARAMIRANGA HIDROLANDIA ALCANTARAS FRECHEIRINHA SANTA QUITERIA FORTALEZA ITAICABA CRATEUS PARAMOTI CAPISTRANO CHORO CANINDE SANTANA DO CARIRI JATI ITAPIPOCA IBARETAMA CHAVAL NOVA RUSSAS BAIXIO MASSAPE ITATIRA IRACEMA IGUATU QUIXERE TARRAFAS FARIAS BRITO CARIDADE VARJOTA GRANJA POTIRETAMA QUITERIANOPOLIS PARACURU MORADA NOVA IPAPORANGA QUIXERAMOBIM CARIRIACU MARANGUAPE MARCO SABOEIRO FORQUILHA PALHANO IRAUCUBA SAO BENEDITO PEREIRO CHOROZINHO IBICUITINGA PEDRA BRANCA ICO ANTONINA DO NORTE MAURITI ARNEIROZ TURURU NOVO ORIENTE VICOSA DO CEARA TAUA CATUNDA OCARA URUBURETAMA ALTO SANTO PORTEIRAS AMONTADA MONSENHOR TABOSA MADALENA IBIAPINA TEJUCUOCA IPAUMIRIM PACOTI QUIXADA SENADOR POMPEU CARIRE PALMACIA AQUIRAZ TAMBORIL ICAPUI JAGUARETAMA MIRAIMA PORANGA GROAIRAS SANTANA DO ACARAU VARZEA ALEGRE JAGUARIBARA COREAU QUIXELO PARAIPABA CARNAUBAL JUAZEIRO DO NORTE CARIUS SOLONOPOLE PACUJA CAUCAIA OROS JUCAS AIUABA BARBALHA BATURITE ARACOIABA ITAPIUNA PIQUET CARNEIRO UBAJARA PARAMBU RUSSAS IPU UMIRIM ERERE MUCAMBO FORTIM ARARIPE ARATUBA BELA CRUZ CATARINA MOMBACA AURORA DEPUTADO IRAPUAN PINHEIRO LIMOEIRO DO NORTE ACOPIARA MILAGRES JARDIM MISSAO VELHA TABULEIRO DO NORTE GRANJEIRO BARROQUINHA CASCAVEL BREJO SANTO MERUOCA ASSARE TIANGUA RERIUTABA PENAFORTE HORIZONTE GRACA NOVA OLINDA ARARENDA CROATA MILHA IPUEIRAS   		
+
+  !!""##$$%%&&''(())**++,,--..//00112233445566778899::;;<<==>>??@@AABBCCDDEEFFGGHHIIJJKKLLMMNNOOPPQQRRSSTTUUVVWWXXYYZZ[[\\]]^^__``aabbccddeeffgghhiijjkkllmmnnooppqqrrssttuuvvwwxxyyzz{{||}}~~ÄÄÅÅÇÇÉÉÑÑÖÖÜÜááààââääããååççééèèêêëëííììîîïïññóóòòôôööõõúúùùûûüü††°°¢¢££§§••¶¶ßß®®©©™™´´¨¨≠≠ÆÆØØ∞∞±±≤≤≥≥¥¥µµ∂∂∑∑
